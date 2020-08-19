@@ -1,0 +1,8 @@
+git clone
+git add *
+git commit -m
+git push origin master
+
+Obs.: no meu caso, com a sua ajuda, professor Jean Lucas, ainda precisei usar os comandos  git config --global user.email "you@example.com" e git config --global user.name "Your Name"
+Obs.2: foi necessário logar novamente, pois foi a primeira vez que submeti o commit
+Obs.3: para arquivar e deixar somente em modo leitura, fui ao comando Settings, depois em Manage e depois em Archive this repository
